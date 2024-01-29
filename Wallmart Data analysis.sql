@@ -1,14 +1,5 @@
-## Walmart Sales Data Analysis ##
-
-# This project is centered around delving into the Walmart Sales dataset to gain valuable insights into various aspects of its sales performance.
-# The overarching goal is to comprehend the dynamics of top-performing branches and products, analyze sales trends across different product categories,
-# and explore customer behavior patterns. By leveraging the historical sales data from 45 Walmart stores situated in diverse regions, the project seeks
-# to provide a comprehensive understanding of the factors influencing sales.
-
-
-
-
-
+## Walmart Sales Data Analysis
+	
 Create Database Wallmart;
 use Wallmart;
 
@@ -216,15 +207,6 @@ sum(Quantity) as qty_sold
 from sales
 group by Month_name
 order by qty_sold desc;
-
-
-
-
-
-
-
-
-
 
 
     
