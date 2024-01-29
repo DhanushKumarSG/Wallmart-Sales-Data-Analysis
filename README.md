@@ -1,6 +1,6 @@
-**Walmart Sales Data Analysis**
+# Walmart Sales Data Analysis
 
-**About:**
+# About
 This project delves into the Walmart Sales data, sourced from the Kaggle Walmart Sales Forecasting Competition. The objective is to gain insights into the sales data of Walmart, focusing on top-performing branches, product analysis, sales trends, and customer behavior. The dataset comprises sales transactions from three Walmart branches located in Mandalay, Yangon, and Naypyitaw.
 
 **Purposes Of The Project:**
