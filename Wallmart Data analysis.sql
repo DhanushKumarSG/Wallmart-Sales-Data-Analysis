@@ -1,4 +1,4 @@
-## Walmart Sales Data Analysis
+# Walmart Sales Data Analysis
 	
 Create Database Wallmart;
 use Wallmart;
